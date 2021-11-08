@@ -30,8 +30,9 @@ pip install matplotlib
 ```
 python3 demo_chart.py
 ```
-Display on terminal
-Outputs to image file
+* Display on terminal
+* Outputs to image file
+![alt text](demo_chart.png "Demo Chart")
 
 ## License
 This project is licensed under MIT. Contributions to this project are accepted under the same license.
